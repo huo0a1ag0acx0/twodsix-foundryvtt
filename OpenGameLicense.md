@@ -134,3 +134,5 @@ Modern War – Gun Conversion © 2020 Zozer Games; Author Paul Elliott.
 Cepheus Deluxe © 2021 Stellagama Publishing; authors Omer Golan-Joel, Josh Peters, Richard Hazlewood, and Robert L. S. Weaver.
 Twodsix © 2020-2024, The developers of Twodsix (including but not necessarily limited to those listed in https://github.com/xdy/twodsix-foundryvtt/blob/master/CONTRIBUTORS.md)
 </pre>
+
+<!-- Auto-update: 2025-10-14T04:04:47.359949 -->
